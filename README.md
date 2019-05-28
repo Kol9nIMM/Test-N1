@@ -32,7 +32,7 @@
    <article>
       <div class="introtxt">
         <p class="font-xs nospace">WeB-Site</p>
-        <h2 class="heading">Вітаю на Сайті Іваніва Миколи</h2>
+        <h2 class="heading">Вітаю на Сайті </h2>
         <p></p>
       </div>
       <footer>
