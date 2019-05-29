@@ -1,3 +1,20 @@
+
+  <div id="pageintro" class="hoc clear">
+   <article>
+      <div class="introtxt">
+        <p class="font-xs nospace">WeB-Site</p>
+        <h2 class="heading">Вітаю на Сайті </h2>
+        <p></p>
+      </div>
+      <footer>
+        <ul class="nospace inline pushright">
+          <li><a class="btn inverse" href="#">Porttitor</a></li>
+          <li><a class="btn" href="#">Fringilla</a></li>
+        </ul>
+      </footer>
+    </article>
+  </div>
+</div># Test-N1
 <div class="bgded" style="background-сolor:red">
 <div class="wrapper overlay">
     <header id="header" class="hoc clear">
@@ -28,19 +45,3 @@
         </div>
     </header>
   </div>
-  <div id="pageintro" class="hoc clear">
-   <article>
-      <div class="introtxt">
-        <p class="font-xs nospace">WeB-Site</p>
-        <h2 class="heading">Вітаю на Сайті </h2>
-        <p></p>
-      </div>
-      <footer>
-        <ul class="nospace inline pushright">
-          <li><a class="btn inverse" href="#">Porttitor</a></li>
-          <li><a class="btn" href="#">Fringilla</a></li>
-        </ul>
-      </footer>
-    </article>
-  </div>
-</div># Test-N1
