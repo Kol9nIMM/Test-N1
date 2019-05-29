@@ -1,4 +1,4 @@
-<div class="bgded" style="background-сolor:red">
+x
 <div class="wrapper overlay">
     <header id="header" class="hoc clear">
       <nav id="mainav" class="clear">
@@ -24,6 +24,7 @@
         </ul>
         </nav>
       <div id="logo"> 
+          <div class="bgded" style="background-сolor:red">
        <h1><a href="index.html">Web-site V3.4</a></h1>
         </div>
     </header>
